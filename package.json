@@ -1,0 +1,28 @@
+{
+  "name": "localstack",
+  "version": "1.0.0",
+  "description": "rotinas de funções de pilhas (push, pop, stack, ...)",
+  "main": "localstack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welder496/localstack.git"
+  },
+  "keywords": [
+    "stack",
+    "push",
+    "pop",
+    "stack",
+    "resetAll",
+    "clear",
+    "newStack"
+  ],
+  "author": "Welder Mauricio de Souza <welder496@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/welder496/localstack/issues"
+  },
+  "homepage": "https://github.com/welder496/localstack#readme"
+}
